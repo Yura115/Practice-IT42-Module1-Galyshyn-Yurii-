@@ -1,0 +1,41 @@
+ІДЕЇ ДЛЯ НАКРОЗНОГО ВЕБЗАСТОСУНКУ
+
+1. AI TASK ASSISTANT & SCHEDULER (Розумний планувальник завдань)
+    -Опис: Застосунок для автоматичного розподілу задач за пріоритетами,дедлайнами та складністю.
+    -Стек: Python (Django REST Framework),React,PostgreSQL.
+
+2. SMART EXPENSE & SUBSCRIPTION TRACKER (Контроль витрат і підписок)
+    -Опис: Сервіс обліку бюджету,категорій витрат та нагадувань про платажні підписки.
+    -Стек: Python (Django/FastAPI),React,PostgreSQL,Chart.js.
+
+3. HABIT & HEALTH TRACKER (Трекер звичок та здорового способу життя)
+    -Опис: Гейміфікований трекер корисних звичок,водного балансу,сну та тренувань.
+    -Стек: Python (Django),React,PostgreSQL.
+
+4. BOOKMARK & KNOWLEDGE ORGANIZER (База знань та корисних посилань)
+    -Опис: Персональний хаб для збереження,категоризації та швидкого пошуку важливих статей/посилань.
+    -Стек: Python (Django),React,PostgreSQL.
+
+5. STUDENT STUDY WORKSPACE (Єдиний робочий простір для студента)
+    -Опис: Платформа для обліку розкладу,дедлайнів лабораторних,збереження конспектів та розрахунку середнього бала.
+    -Стек: Python (Django REST Framework),React,PostgreSQL.
+
+6. SMART RECIPE & PANTRY MANAGER (Кулінарний помічник за наявними продуктами)
+    -Опис: Генератор рецептів на основі списку продуктів,які є у користувача вдома.
+    -Стек: Python (Django),React,PostgreSQL.
+
+7. PARCEL & ORDER TRACKER (Агрегатор трекінгу посилок та замовлень)
+    -Опис: Єдине вікно для відстеження статусу доставок із різних сервісів.
+    -Стек: Python (FastAPI/Django),React,PostgreSQL.
+
+8. FREELANCE PROJECT HUB (Кабінет обліку замовлень та клієнтів фрілансера)
+    -Опис: Система для керування проєктами,етапами розробки та рахунками.
+    -Стек: Python (Django REST Framework),React,PostgreSQL.
+
+9. EVENT & MEETUP PLANNER (Організатор подій,зустрічей та спільних бюджетів)
+    -Опис: Сервіс для збору відповідей гостей,вибору дати голосуванням та розрахунку спільних витрат.
+    -Стек: Python (Django),React,PostgreSQL.
+
+10. DEVELOPER PORTFOLIO & CODE HUB (Інтерактивний хаб розробника з GitHub API)
+     -Опис: Портфоліо з автоматичною синхронізацією репозиторіїв з GitHub та шпаргалками коду.
+     -Стек: Python (Django REST Framework),React,GitHub API,PostgreSQL.
